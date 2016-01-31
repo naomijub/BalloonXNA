@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsGame1", "WindowsGame1\WindowsGame1\WindowsGame1.csproj", "{41152974-AE78-4EF9-ACFC-2D8099E759C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsGame1Content", "WindowsGame1\WindowsGame1Content\WindowsGame1Content.contentproj", "{2EF2F1D5-0E8E-492E-A835-30D226B04057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41152974-AE78-4EF9-ACFC-2D8099E759C3}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{41152974-AE78-4EF9-ACFC-2D8099E759C3}.Debug|x86.ActiveCfg = Debug|x86
+		{41152974-AE78-4EF9-ACFC-2D8099E759C3}.Debug|x86.Build.0 = Debug|x86
+		{41152974-AE78-4EF9-ACFC-2D8099E759C3}.Release|Any CPU.ActiveCfg = Release|x86
+		{41152974-AE78-4EF9-ACFC-2D8099E759C3}.Release|x86.ActiveCfg = Release|x86
+		{41152974-AE78-4EF9-ACFC-2D8099E759C3}.Release|x86.Build.0 = Release|x86
+		{2EF2F1D5-0E8E-492E-A835-30D226B04057}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{2EF2F1D5-0E8E-492E-A835-30D226B04057}.Debug|x86.ActiveCfg = Debug|x86
+		{2EF2F1D5-0E8E-492E-A835-30D226B04057}.Release|Any CPU.ActiveCfg = Release|x86
+		{2EF2F1D5-0E8E-492E-A835-30D226B04057}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
