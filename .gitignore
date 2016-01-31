@@ -1,4 +1,5 @@
 bin/
+<<<<<<< HEAD
 
 /bin/
 
@@ -9,3 +10,10 @@ obj/
 Debug/
 
 /Debug/
+=======
+/bin/
+obj/
+/obj/
+Debug/
+/Debug/
+>>>>>>> 07c1027600f113efc4b1f34e49cb3a0e4a5edca1
